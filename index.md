@@ -1,19 +1,18 @@
 ---
-TITLE
+People in our class
 ---
-## People in our class
+### Class List
 * kt
 * joshua
 * jordan
 
 
-***GitHub Links:
+### GitHub Links:
 
 (http://bower.io/)
 (http://microsoft.github.io)
 (https://code.facebook.com)
 (https://github.com/kt3315/)
-
 
 [TRAINING RESOURCES](//training.github.com/)
 
