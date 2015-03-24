@@ -1,7 +1,7 @@
-***
+---
 TITLE
-***
-## People in our list
+---
+## People in our class
 * kt
 * joshua
 * jordan
@@ -17,4 +17,4 @@ TITLE
 
 [TRAINING RESOURCES](//training.github.com/)
 
-[GUIDES]((https://gist.github.com/githubteacher/71140450287c3d64b785) or[URL:](bit.ly/github324)
+[GUIDES]((https://gist.github.com/githubteacher/71140450287c3d64b785) or [URL:](bit.ly/github324)
